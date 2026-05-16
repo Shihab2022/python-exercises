@@ -1,0 +1,16 @@
+*__pycache__*
+*.pyc
+*.zip
+*env
+.env
+*datasets_for_demographics_api/*
+*.csv*
+*parquet
+test/datasets_for_demographics_api/*
+*out
+*pem
+private_keys/*
+*log
+.cache/*
+*.ipynb
+*.log.*
